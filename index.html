@@ -1,0 +1,14 @@
+---
+layout: base
+---
+{% for post in site.posts %}
+    <h2>
+        <a name="{{post.slug}}" href="{{post.url}}">
+            {{post.title}}
+        </a>
+    </h2>
+    {{post.excerpt}}
+
+{% endfor %}
+
+
