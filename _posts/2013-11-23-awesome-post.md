@@ -5,4 +5,4 @@ layout: post
 published: 'false'
 title: Awesome Post
 ---
-This is an awesome post that I want to see on my homepage. 
+This is an awesome post that I want to see on my homepage. Awesome
