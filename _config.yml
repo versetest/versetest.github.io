@@ -1,4 +1,3 @@
-
 source:      .
 destination: ./_site
 plugins:     ./_plugins
@@ -9,7 +8,7 @@ keep_files:  ['.git','.svn']
 timezone:    nil
 encoding:    nil
 
-future:      true
+future:      false
 show_drafts: nil
 limit_posts: 0
 pygments:    true
