@@ -2,7 +2,7 @@
 comments: 'true'
 date: '2013-12-14'
 layout: post
-published: false
+published: true
 title: Welcome to Verse
 ---
 This is verse, a new blog platform. Welcome.
