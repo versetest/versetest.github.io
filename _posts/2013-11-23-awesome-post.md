@@ -1,6 +1,6 @@
 ---
 comments: 'true'
-date: '2013-11-23'
+date: '2013-11-24'
 layout: post
 published: true
 title: Awesome Post
